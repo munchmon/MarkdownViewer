@@ -1,6 +1,6 @@
 # 🧩 Munchmon Markdown Viewer
 
-A clean, WPF-based local Markdown viewer with real-time preview, Fluent UI, and export features.
+A clean, WPF-based local Markdown viewer and editor with real-time preview, Fluent UI, and export features.
 
 ## 📦 Download
 
